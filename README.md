@@ -42,14 +42,14 @@ The sample of exit count output from dmesg from “with ept”:
 [ 6613.677628] number_of_exits =720748
 [ 6613.685977] number_of_exits =0
 [ 6613.694686] number_of_exits =0
-[ 6613.706721] not defined exit number in SDM: 0
+[ 6613.706721] not defined exit number in SDM: 35
 [ 6613.712776] number_of_exits =0
 [ 6613.716794] number_of_exits =0
-[ 6613.721343] not defined exit number in SDM: 0
+[ 6613.721343] not defined exit number in SDM: 38
 [ 6613.725632] number_of_exits =0
 [ 6613.740323] number_of_exits =24931
 [ 6613.746213] number_of_exits =0
-[ 6613.753027] not defined exit number in SDM: 0
+[ 6613.753027] not defined exit number in SDM: 42
 [ 6613.759974] number_of_exits =0
 [ 6613.764083] number_of_exits =0
 [ 6613.772616] number_of_exits =0
@@ -72,7 +72,7 @@ The sample of exit count output from dmesg from “with ept”:
 [ 6613.827931] number_of_exits =0
 [ 6613.829739] number_of_exits =0
 [ 6613.832866] number_of_exits =0
-[ 6613.834634] not defined exit number in SDM: 0
+[ 6613.834634] not defined exit number in SDM: 65
 [ 6613.836964] number_of_exits =0
 [ 6613.839479] number_of_exits =0
 ```
@@ -113,14 +113,14 @@ The sample of exit count output from dmesg from “without ept”:
 [ 6966.508581] number_of_exits =920742
 [ 6966.536664] number_of_exits =0
 [ 6966.564416] number_of_exits =0
-[ 6966.592633] not defined exit number in SDM: 0
+[ 6966.592633] not defined exit number in SDM: 35
 [ 6966.627486] number_of_exits =0
 [ 6966.658188] number_of_exits =0
-[ 6966.683745] not defined exit number in SDM: 0
+[ 6966.683745] not defined exit number in SDM: 38
 [ 6966.711574] number_of_exits =0
 [ 6966.733713] number_of_exits =37172
 [ 6966.759002] number_of_exits =0
-[ 6966.787230] not defined exit number in SDM: 0
+[ 6966.787230] not defined exit number in SDM: 42
 [ 6966.812354] number_of_exits =0
 [ 6966.839581] number_of_exits =0
 [ 6966.863614] number_of_exits =0
@@ -143,7 +143,7 @@ The sample of exit count output from dmesg from “without ept”:
 [ 6967.312432] number_of_exits =0
 [ 6967.336142] number_of_exits =0
 [ 6967.365144] number_of_exits =0
-[ 6967.390491] not defined exit number in SDM: 0
+[ 6967.390491] not defined exit number in SDM: 65
 [ 6967.418610] number_of_exits =0
 [ 6967.443209] number_of_exits =0
 ```
