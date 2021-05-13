@@ -7,7 +7,6 @@ Only myself: Yilin Zhou (sjsuid:012571026)
 
 The sample of exit count output from dmesg from “with ept”:
 ```
-[ 6592.276858] number_of_exits =11827
 [ 6613.515049] number_of_exits =11827
 [ 6613.519563] number_of_exits =83150
 [ 6613.522361] number_of_exits =0
